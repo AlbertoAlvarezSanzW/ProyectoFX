@@ -9,6 +9,8 @@ import javafx.scene.input.MouseEvent;
 
 public class Controller {
 
+
+
     @FXML
     public Label verificacionPass;
     @FXML
@@ -25,7 +27,6 @@ public class Controller {
     public void mostrarContrasena(){
 
     }
-
 
     @FXML
     public void mostrarContenidoBoton(ActionEvent evento){
