@@ -9,8 +9,11 @@ import javafx.scene.input.MouseEvent;
 
 public class Controller {
 
+    @FXML
     public Label verificacionPass;
+    @FXML
     public Label idLabelPassword;
+    @FXML
     public PasswordField passwordOroginal;
     Password pas = new Password();
     String nombre = "";
